@@ -4,4 +4,4 @@ I study in Netology.
 
 GIT is great
 
-merge conflict
+merge conflict (i want to delete)
